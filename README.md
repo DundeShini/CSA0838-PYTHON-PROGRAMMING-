@@ -12,4 +12,8 @@
 10. write a program for digits to alphabets
 11. write a program for parenthesis
 12. write a program for seasons
-
+13. write a program for area of circle
+14. write a program for celsius to farenheit
+15. write a program for simple interest
+16. write a program for greatest among three numbers
+17. write a program for subjects marks and average
