@@ -11,5 +11,5 @@
 9. write a program for basic calculators
 10. write a program for digits to alphabets
 11. write a program for parenthesis
-12 .write a program for seasons
+12. write a program for seasons
 
