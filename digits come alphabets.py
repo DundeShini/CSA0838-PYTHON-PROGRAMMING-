@@ -8,10 +8,10 @@ class solution(object):
         return result
     def solve(self, digits, characters, result,current_strings="",current_level =0):
         if current_level == len(digits):
-            result.append(current_string)
+            result.append(current_strings)
             return
         for i in characters[int(digits[current_level])]:
-            self.solve(digits,characters,result,current_string+i,current_level+1)
+            self.solve(digits,characters,result,current_strings+i,current_level+1)
 ob1 = solution()
 m=(input("enter the numbers"))
 print(ob1.lettercombinations(m))
