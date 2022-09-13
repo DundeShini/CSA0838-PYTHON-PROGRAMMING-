@@ -30,3 +30,4 @@
 28. wrie a program for binary
 29. write a program for merge two lists
 30. write a program for valid number
+31. write a program for maxium no of jumps
