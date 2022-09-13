@@ -29,3 +29,4 @@
 27. write a program for good pairs
 28. wrie a program for binary
 29. write a program for merge two lists
+30. write a program for valid number
