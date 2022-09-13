@@ -1,6 +1,6 @@
 # CSA0838-PYTHON-PROGRAMMING- These phython programs i done in my classroom . I think these programs are helpful for your study. and we can gain some through it. 
 *programs*
-1.  program for isomorphic 
+1.  program for isomorphic (two strings s and t)
 2.  program for sumsquare
 3.  program for happy
 4.  program for palindrome
