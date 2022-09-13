@@ -23,3 +23,5 @@
 21. write a program for container contains water
 22. write a program for vowels
 23. write a program for replacing characters
+24. write a program for share trading
+25. write a program for possible combinations
