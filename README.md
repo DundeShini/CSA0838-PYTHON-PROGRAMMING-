@@ -22,3 +22,4 @@
 20. write a program for regular expression
 21. write a program for container contains water
 22. write a program for vowels
+23. write a program for replacing characters
