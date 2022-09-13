@@ -1,19 +1,32 @@
-month = input("Input the month (e.g. January, February etc.): ")
-day = int(input("Input the day: "))
-if month in ('January', 'February', 'March'):
-     season = 'winter'
-elif month in ('April', 'May', 'June'):
-     season = 'spring'
-elif month in ('July', 'August', 'September'):
-    season = 'summer'
+#program to display season
+
+month=input("enter a month")
+date=int(input("enter the date"))
+if(date>0 and date<=31):
+    if(month=='april' or month=='may'):
+         print("summer")
+    if(month=='june' and date<=20):
+         print("summer")
+    if(month=='march' and date>20):
+         print("summer")
+    if(month=='june' and date>20):
+         print("spring")
+    if(month=='july'or month=='august'):
+         print("spring")
+    if(month=='september' and date<=20):
+         print("spring")
+    if(month=='september' and date>20):
+         print("fall")
+    if(month=='october' or month=='november'):
+         print("fall")
+    if(month=='december' and date<=20):
+         print("fall")
+    if(month=='january' or month=='february'):
+         print("winter")
+    if(month=='march' and date<=20):
+         print("winter")
+    if(month=='december' and date>20):
+        print("winter")
+
 else:
-    season = 'autumn'
-if (month == 'March') and (day > 19):
-    season = 'spring'
-elif (month == 'June') and (day > 20):
-    season = 'summer'
-elif (month == 'September') and (day > 21):
-    season = 'autumn'
-elif (month == 'December') and (day > 20):
-    season = 'winter'
-print("Season is",season)
+    print("enter valid input")
