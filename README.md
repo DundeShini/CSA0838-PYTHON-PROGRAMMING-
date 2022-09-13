@@ -25,3 +25,5 @@
 23. write a program for replacing characters
 24. write a program for share trading
 25. write a program for possible combinations
+26. write a program for converting number into mirror
+27. write a program for good pairs
