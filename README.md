@@ -1,33 +1,34 @@
 # CSA0838-PYTHON-PROGRAMMING- These phython programs i done in my classroom . I think these programs are helpful for your study. and we can gain some through it. 
 *programs*
-1. write a program for isomorphic 
-2. write a program for sumsquare
-3. write a program for happy
-4. write a program for palindrome
-5. write a program for bakery sells
-6. write a program for stair case
-7. write a program for leap year
-8. write a program for max  no of words
-9. write a program for basic calculators
-10. write a program for digits to alphabets
-11. write a program for parenthesis
-12. write a program for seasons
-13. write a program for area of circle
-14. write a program for celsius to farenheit
-15. write a program for simple interest
-16. write a program for greatest among three numbers
-17. write a program for subjects marks and average
-18. write a program for quadratic expresssion
-19. write a program for remove words
-20. write a program for regular expression
-21. write a program for container contains water
-22. write a program for vowels
-23. write a program for replacing characters
-24. write a program for share trading
-25. write a program for possible combinations
-26. write a program for converting number into mirror
-27. write a program for good pairs
-28. wrie a program for binary
-29. write a program for merge two lists
-30. write a program for valid number
-31. write a program for maxium no of jumps
+1.  program for isomorphic 
+2.  program for sumsquare
+3.  program for happy
+4.  program for palindrome
+5.  program for bakery sells
+6.  program for stair case
+7.  program for leap year
+8.  program for max  no of words
+9.  program for basic calculators
+10. program for digits to alphabets
+11. program for parenthesis
+12. program for seasons
+13. program for area of circle
+14. program for celsius to farenheit
+15. program for simple interest
+16. program for greatest among three numbers
+17. program for subjects marks and average
+18. program for quadratic expresssion
+19. program for remove words
+20. program for regular expression
+21. program for container contains water
+22. program for vowels
+23. program for replacing characters
+24. program for share trading
+25. program for possible combinations
+26. program for converting number into mirror
+27. program for good pairs
+28. program for binary
+29. program for merge two lists
+30. program for valid number
+31. program for maxium no of jumps
+32. program for party
