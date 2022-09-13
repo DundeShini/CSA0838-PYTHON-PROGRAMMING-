@@ -27,3 +27,4 @@
 25. write a program for possible combinations
 26. write a program for converting number into mirror
 27. write a program for good pairs
+28. wrie a program for binary
