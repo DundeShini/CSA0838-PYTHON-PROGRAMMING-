@@ -34,3 +34,4 @@
 32. program for party
 33. program for permutation
 34. program for anagrams 
+35. program for minimum no of operations
