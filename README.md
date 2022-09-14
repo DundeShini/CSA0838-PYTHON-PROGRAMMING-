@@ -33,5 +33,6 @@
 31. program for maxium no of jumps
 32. program for party
 33. program for permutation
+34. program for student users in clg
 34. program for anagrams 
 35. program for minimum no of operations
