@@ -33,3 +33,4 @@
 31. program for maxium no of jumps
 32. program for party
 33. program for permutation
+34. program for anagrams 
