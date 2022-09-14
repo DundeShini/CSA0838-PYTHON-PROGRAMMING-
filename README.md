@@ -41,3 +41,5 @@
 38. program for string array(1-indexed)
 39. program for scramble string
 40. program for minimum no of steps
+41. program for many numbers smallerthan current number
+
