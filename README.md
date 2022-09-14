@@ -25,7 +25,7 @@
 23. program for replacing characters
 24. program for share trading
 25. program for possible combinations
-26. program for converting number into mirror
+26. program for converting number into mirror number
 27. program for good pairs
 28. program for binary
 29. program for merge two lists
