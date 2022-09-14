@@ -1,15 +1,10 @@
-def permutation(lst):   
-    if len(lst) == 0:
-        return []    
-    if len(lst) == 1:
-        return [lst]    
-    l = [] 
-    for i in range(len(lst)):
-       m = lst[i]       
-       remLst = lst[:i] + lst[i+1:]
-       for p in permutation(remLst):
-           l.append([m] + p)
-    return l
-data = list('28910')
-for p in permutation(data):
-    print (p)
+def perm(a, k=0):
+   if k == len(a):
+      print (a)
+   else:
+      for i in range(k, len(a)):
+         a[k], a[i] = a[i] ,a[k]
+         perm(a, k+1)
+         a[k], a[i] = a[i], a[k]
+
+perm([-1,0,1])
