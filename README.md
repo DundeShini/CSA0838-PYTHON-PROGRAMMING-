@@ -40,3 +40,4 @@
 37. program for romans to integer
 38. program for string array(1-indexed)
 39. program for scramble string
+40. program for minimum no of steps
