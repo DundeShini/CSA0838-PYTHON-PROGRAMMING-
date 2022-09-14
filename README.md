@@ -42,4 +42,5 @@
 39. program for scramble string
 40. program for minimum no of steps
 41. program for many numbers smallerthan current number
+42. program for valid palindrome
 
