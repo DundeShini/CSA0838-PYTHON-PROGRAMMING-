@@ -36,3 +36,4 @@
 34. program for student users in clg
 34. program for anagrams 
 35. program for minimum no of operations
+36. program for deleting character from string
