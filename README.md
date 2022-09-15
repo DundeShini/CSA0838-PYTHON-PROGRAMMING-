@@ -49,4 +49,5 @@
 46. program for many integers can divide both numbers
 47. program for peak element
 48. program for perfect square number
+49. program for triangular array
 
