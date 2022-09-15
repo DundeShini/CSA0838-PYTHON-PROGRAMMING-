@@ -47,4 +47,5 @@
 44. program for reverse word
 45. program for employee bonus
 46. program for many integers can divide both numbers
+47. program for peak element
 
