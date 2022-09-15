@@ -51,3 +51,4 @@
 48. program for perfect square number
 49. program for triangular array
 50. program for shuffled list
+51. program for count repeating characters
