@@ -1,20 +1,15 @@
-#num=(str(input("enter a strin 1:))
-#num=(str(input("enter a strin 2:))
-def isisomorphic(str1,str2):
-    if len(str1)!=len(str2):
-        return False
-    else:
-        map1,map2={},{}
-        for i in range (len(str1)):
-            ch1,ch2=str1[i],str2[i]
-            if ch1 not in map1:
-                map1[ch1]=ch2
-            if ch2 not in map2:
-                map2[ch2]=ch1
-            if map1[ch1]!=ch2 or map2[ch2]!=ch1:
-                return False
+s1=str(input("enter the string 1:"))
+s2=str(input("enter the string 2:"))
+g=[]
+h=[]
+for i in s1:
+ if i not in g:
+   g.append(s1.index(i))
+for k in s2:
+ if k not in h:
+   h.append(s2.index(k))
+ if g==h:
+   print("true")
+else:
+   print("false")
 
-    return True
-str1="foo"
-str2="bar"
-print(isisomorphic(str1,str2))
