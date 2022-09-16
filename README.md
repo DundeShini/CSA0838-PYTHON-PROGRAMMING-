@@ -55,3 +55,4 @@
 52. program for valid chessboard(The task is to minimize the number of swaps to form a valid chessboard)
 53. program for reversed number 
 54. program for eligible for vote
+55. program for factorial
