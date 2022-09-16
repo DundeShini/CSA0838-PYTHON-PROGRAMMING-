@@ -56,4 +56,5 @@
 53. program for reversed number 
 54. program for eligible for vote
 55. program for factorial
-56.  program for calculator
+56. program for calculator
+57. program for perfect number
