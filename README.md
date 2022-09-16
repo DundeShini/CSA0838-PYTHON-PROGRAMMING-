@@ -52,3 +52,4 @@
 49. program for triangular array
 50. program for shuffled list
 51. program for count repeating characters
+52. program for valid chessboard(The task is to minimize the number of swaps to form a valid chessboard)
