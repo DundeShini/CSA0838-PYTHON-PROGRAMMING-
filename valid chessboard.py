@@ -30,9 +30,11 @@ if __name__ == "__main__":
  arr = [[1,0],
   [ 1, 0]]
  minswap = movesToChessboard(arr)
- if (minswap == -1):
-  print("Impossible")
- else:
-  print(minswap)
+ minswap == -1
+print("minswap",minswap)
+ 
+
+
+
 
 
