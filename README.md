@@ -58,3 +58,4 @@
 55. program for factorial
 56. program for calculator
 57. program for perfect number
+58. program for mean, mode and median 
